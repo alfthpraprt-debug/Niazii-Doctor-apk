@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Niazi Doctor</string>
+    <string name="app_name_urdu">نیازی ڈاکٹر</string>
+    <string name="app_tagline">Your Smart AI Phone Doctor</string>
+    <string name="app_tagline_urdu">آپ کے موبائل کا ذہین ڈاکٹر</string>
+</resources>
